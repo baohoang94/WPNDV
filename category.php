@@ -1,0 +1,1 @@
+<h1>Đây là trang giao diện hiển thị các danh mục</h1>

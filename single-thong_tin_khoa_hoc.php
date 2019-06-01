@@ -1,0 +1,1 @@
+<h1>Đây là trang chi tiết của kiểu dữ liệu thông tin khóa học</h1>
